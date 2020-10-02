@@ -1,5 +1,7 @@
+</div>
 <footer>
     <div class="container-fluid">
+
         <div class="row">
             <div class="col-12">
                 <div class="partenaire">
@@ -11,6 +13,7 @@
                 </div>
             </div>
         </div>
+
         <div class="row">
             <div class="col-12">
                 <div class="res-sociaux p-3">
@@ -20,8 +23,8 @@
                         </div>
                         <div class="text-center p-2">
                             <a class="lien p-2" href="">Contacts</a>
-                            <a class="lien p-2" href=""> Mention légales</a>
-                            <a class="lien p-2" href="">A venir à Cerisy</a>
+                            <a class="lien p-2" href=""> Mentions légales</a>
+                            <a class="lien p-2" href=""> Venir à Cerisy</a>
                         </div>
                         <div class="icon d-flex justify-content-center p-2">
                             <a href=""><i class="fa fa-facebook fa-2x iconfb"></i></a>
@@ -33,16 +36,18 @@
                 </div>
             </div>
         </div>
+
         <div class="row">
             <div class="col-12">
                 <div class="adresse ">
                     <div class="container col-10 d-flex justify-content-between">
-                        <p>Centre culturel international de Cerisy, Le Château - 502010 Cerisy-la-Salle (France)</p>
-                        <p>©CERISY - 2020</p>
+                        <p>Centre culturel international de Cerisy.2, Le Château - 50210 Cerisy-la-Salle (France)</p>
+                        <p>© CERISY - 2020</p>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 
 </footer>

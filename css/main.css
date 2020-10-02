@@ -1,6 +1,16 @@
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1440px !important;
+  }
+}
+
 .custom-icon {
   --icon-r: 2.4rem;
-  display: inline-block;
+  display: block;
   width: var(--icon-r);
   height: var(--icon-r);
   line-height: var(--icon-r);
@@ -8,6 +18,7 @@
   border-radius: 50%;
   text-align: center;
   color: rgb(20, 131, 20);
+  margin: auto;
 }
 
 .custom-title {
@@ -193,3 +204,8 @@ header {
   width: var(--icon-w);
   text-align: center;
 }
+
+/*--- custom select ---*/
+/* .custom-select {
+  border: 1px solid #eee;
+} */
