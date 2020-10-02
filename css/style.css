@@ -1,0 +1,104 @@
+header {
+  border-bottom: 1px solid rgb(231, 231, 231);
+}
+
+.btn-search {
+  position: relative;
+  top: 0;
+  right: 37px;
+}
+
+.title-search {
+  position: absolute;
+  font-size: 10px;
+  top: 7px;
+  right: 223px;
+}
+
+.img-cerisy {
+  width: 150px;
+}
+
+.partenaire {
+  border-top: 1px solid rgb(233, 233, 233);
+  border-bottom: 1px solid rgb(231, 231, 231);
+}
+.logo-partenaire {
+  display: inline-block;
+}
+
+.partenaire1 {
+  width: 50px;
+}
+
+.partenaire2 {
+  vertical-align: bottom;
+  width: 100px;
+}
+
+.lien {
+  color: black;
+}
+
+.lien:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.res-sociaux {
+  border-bottom: 2px solid rgb(233, 233, 233);
+}
+
+/* .icon {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+} */
+
+.iconfb {
+  width: 40px;
+  height: 40px;
+  background-color: #3b5998;
+  border-radius: 4px;
+  color: white;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.iconyt {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  border-radius: 4px;
+  color: white;
+  margin-left: 10px;
+  padding-top: 11px;
+  padding-left: 14px;
+}
+
+.iconlk {
+  width: 40px;
+  height: 40px;
+  background-color: #0e76a8;
+  border-radius: 4px;
+  color: white;
+  margin-left: 10px;
+  padding-top: 11px;
+  padding-left: 12px;
+}
+
+.imgforge {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+
+.adresse {
+  font-size: 12px;
+}
+
+.adresse p {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
