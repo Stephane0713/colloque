@@ -10,7 +10,7 @@ include("./templates/header.php");
             </div>
         </div>
     </div>
-    <?php include("./templates/asside.dummy.php"); ?>
+    <?php include("./templates/sidebar.php"); ?>
 </div>
 <div class="row">
     <div class="col-12 col-lg-8 offset-lg-4">

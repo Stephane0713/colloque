@@ -3,14 +3,14 @@
         <div class="row">
             <div class="col-12">
                 <form action="#" method="POST" class="d-flex justify-content-center align-items-center">
-                    <div class="form-group d-flex m-4">
+                    <div class="custom-form-group form-group d-flex m-4">
                         <label for="date" class="text-nowrap mx-2 my-auto">Choisir une édition</label>
                         <select class="form-control" id="date">
                             <option value="all">Toute</option>
                             <option value="2020">2020</option>
                         </select>
                     </div>
-                    <div class="form-group d-flex m-4">
+                    <div class="custom-form-group form-group d-flex m-4">
                         <label for="type" class="text-nowrap mx-2 my-auto">Type de ressource</label>
                         <select class="form-control" id="type">
                             <option value="all">Toute</option>

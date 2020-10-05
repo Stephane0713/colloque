@@ -26,7 +26,7 @@
   color: #000;
   text-decoration: none;
   -webkit-transform: translate(0, -50%);
-          transform: translate(0, -50%);
+  transform: translate(0, -50%);
 }
 
 .card-custom-link:last-of-type {
@@ -39,13 +39,17 @@
 
 .card-custom-link:only-of-type {
   -webkit-transform: translate(50%, -50%);
-          transform: translate(50%, -50%);
+  transform: translate(50%, -50%);
 }
 
 .card-custom-link:hover {
   max-width: 20rem;
   color: #000;
   text-decoration: none;
+}
+
+.card-custom-theme {
+  font-size: 0.7rem;
 }
 
 .card-custom-theme::after {
@@ -66,4 +70,3 @@
   width: var(--icon-w);
   text-align: center;
 }
-/*# sourceMappingURL=card.css.map */
